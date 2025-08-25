@@ -1,0 +1,17 @@
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.csproj.AssemblyReference.cache
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.AssemblyInfoInputs.cache
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.AssemblyInfo.cs
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.csproj.CoreCompileInputs.cache
+D:\work\study\dll\Downloader\Downloader\bin\Debug\net8.0\Downloader.exe
+D:\work\study\dll\Downloader\Downloader\bin\Debug\net8.0\Downloader.deps.json
+D:\work\study\dll\Downloader\Downloader\bin\Debug\net8.0\Downloader.runtimeconfig.json
+D:\work\study\dll\Downloader\Downloader\bin\Debug\net8.0\Downloader.dll
+D:\work\study\dll\Downloader\Downloader\bin\Debug\net8.0\Downloader.pdb
+D:\work\study\dll\Downloader\Downloader\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.csproj.Up2Date
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.dll
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\refint\Downloader.dll
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.pdb
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\Downloader.genruntimeconfig.cache
+D:\work\study\dll\Downloader\Downloader\obj\Debug\net8.0\ref\Downloader.dll
